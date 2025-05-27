@@ -136,6 +136,8 @@ paginate: 10
 
 # The base URL of your site
 baseurl: ""
+sitemap:
+  filename: sitemap-2025.xml
 
 # ------------ The following options are not recommended to be modified ------------------
 
