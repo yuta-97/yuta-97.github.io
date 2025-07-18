@@ -1,17 +1,17 @@
 {
-  "name": "jekyll-theme-chirpy",
+  "name": "yuta-dev-blog",
   "version": "7.0.1",
-  "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
+  "description": "Yuta's personal development blog",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cotes2020/jekyll-theme-chirpy.git"
+    "url": "git+https://github.com/yuta-97/yuta-97.github.io.git"
   },
-  "author": "Cotes Chung",
+  "author": "Yuta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
+    "url": "https://github.com/yuta-97/yuta-97.github.io/issues"
   },
-  "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy/",
+  "homepage": "https://yuta-97.github.io",
   "scripts": {
     "build": "concurrently npm:build:*",
     "build:css": "purgecss -c purgecss.config.js",
